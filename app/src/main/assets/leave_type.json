@@ -1,0 +1,39 @@
+{
+  "message": "Data fetched successfully",
+  "result": [
+    {
+      "Name": "DayBased",
+      "PermittedCount": 90,
+      "AvailedCount": 0,
+      "Id": 3000000030001,
+      "Unit": "Days",
+      "BalanceCount": 90
+    },
+    {
+      "Name": "Emp based",
+      "PermittedCount": 60,
+      "AvailedCount": 0,
+      "Id": 3000000099013,
+      "Unit": "Days",
+      "BalanceCount": 60
+    },
+    {
+      "Name": "HalfDayBased",
+      "PermittedCount": 70,
+      "AvailedCount": 0,
+      "Id": 3000000046003,
+      "Unit": "Days",
+      "BalanceCount": 70
+    },
+    {
+      "Name": "Hour based",
+      "PermittedCount": 20,
+      "AvailedCount": 0,
+      "Id": 3000000046007,
+      "Unit": "Hours",
+      "BalanceCount": 20
+    }
+  ],
+  "status": 0,
+  "uri": "/api/leave/getLeaveTypeDetails"
+}

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Chat bot</string>
+
+    <!--user login-->
+    <string name="user_full_name">Please Enter Full Name</string>
+    <string name="user_id">Please Enter User Id</string>
+    <string name="user_pass">Please Enter Password</string>
+    <string name="not_registr">Not valid user, try again...</string>
+    <string name="try_again">Please try again...</string>
+    <string name="network_check">Please check internet connection...</string>
+    <string name="amy_policy_query">Have a policy query?</string>
+    <string name="apply_for_attendance">Apply for Leave</string>
+    <string name="apply_in_one_click">Apply in one click!!!</string>
+    <string name="my_question_for_today">My Question for today</string>
+
+
+
+</resources>

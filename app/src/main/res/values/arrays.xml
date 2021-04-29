@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="leave_type_one">
+        <item>select</item>
+        <item>First Half</item>
+        <item>Second Half</item>
+    </string-array>
+
+    <string-array name="leave_type_two">
+        <item>select</item>
+        <item>First Half</item>
+        <item>Second Half</item>
+    </string-array>
+</resources>
